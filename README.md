@@ -52,7 +52,7 @@ The application uses a dictionary to store recipes and their required ingredient
 
 | Technology   | Purpose                             |
 |-------------|-------------------------------------|
-| Python 3.x   | Core programming language           |
+| Python 3.13   | Core programming language           |
 | set()        | Ingredient comparison and logic     |
 | dict()       | Storage of recipe data              |
 | input/output | User interaction                    |
