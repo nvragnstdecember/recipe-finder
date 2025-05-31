@@ -6,19 +6,6 @@ The **Recipe Finder** is a Python-based mini project designed to help users disc
 
 ---
 
-## 📘 Contents
-
-| Sl. No | Title                  | Page No. |
-|--------|------------------------|----------|
-| 1      | Introduction           | 1        |
-| 2      | Problem Definition     | 2        |
-| 3      | Proposed Methodology   | 3–4      |
-| 4      | Implementation         | 5        |
-| 5      | Results and Discussion | 6        |
-| 6      | Conclusion             | 7        |
-
----
-
 ## 🔍 Introduction
 
 Planning meals can be challenging, especially when limited by available ingredients. Often, people either waste food or struggle to decide what to cook. The Recipe Finder simplifies this by allowing users to input their ingredients and receive matching recipe suggestions from a preset collection.
